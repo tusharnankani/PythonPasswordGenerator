@@ -27,4 +27,4 @@ The string <kbd>01234567</kbd>.
 * Clone this into your Desktop: `git clone "https://github.com/tusharnankani/PythonPasswordGenerator"`
 * Open Command Line or Terminal 
 * Change directory to a respective game: `cd "Desktop\PythonPasswordGenerator\python-password-generator.py"`
-* Run <game_name.py>: `python python-password-generator.py.py`
+* Run <game_name.py>: `python python-password-generator.py`
