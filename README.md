@@ -21,3 +21,10 @@ The string <kbd>01234567</kbd>.
 
 * `string.punctuation`
 	- String of ASCII characters which are considered punctuation characters in the C locale: `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
+
+### To run it on your PC:
+* Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install! 
+* Clone this into your Desktop: `git clone "https://github.com/tusharnankani/PythonPasswordGenerator"`
+* Open Command Line or Terminal 
+* Change directory to a respective game: `cd "Desktop\PythonPasswordGenerator\python-password-generator.py"`
+* Run <game_name.py>: `python python-password-generator.py.py`
