@@ -1,5 +1,5 @@
 # Python Password Generator
-##### THIS SIMPLE PROJECT WAS MADE FOR PYTHON LIBRARY FUNCTIONS LIKE `string` & `random`.
+##### THIS SIMPLE PROJECT WAS MADE TO LEARN PYTHON LIBRARY FUNCTIONS LIKE `string` & `random`.
 
 * `string.ascii_letters`
 	- The concatenation of the ascii_lowercase and ascii_uppercase constants described below. This value is not locale-dependent.
@@ -26,5 +26,5 @@ The string <kbd>01234567</kbd>.
 * Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install! 
 * Clone this into your Desktop: `git clone "https://github.com/tusharnankani/PythonPasswordGenerator"`
 * Open Command Line or Terminal 
-* Change directory to a respective game: `cd "Desktop\PythonPasswordGenerator\python-password-generator.py"`
-* Run <game_name.py>: `python python-password-generator.py`
+* Change directory to a respective game: `cd "Desktop\PythonPasswordGenerator"`
+* Run: `python python-password-generator.py`
